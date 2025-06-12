@@ -21,9 +21,11 @@ This repository contains a collection of MATLAB scripts developed for **MA1508E 
 
 ## 🧪 Usage
 
-You can use these functions directly in the MATLAB live scripts.  
+These functions are best used inside **MATLAB Live Scripts** for step-by-step output.  
 
-To use the scripts (input these commands in the Command Window):
+### ➕ Add the Folder to Your MATLAB Path
+
+In the **Command Window**, run:
 
 ```matlab
 % Add the folder containing the scripts to your MATLAB path:
@@ -34,7 +36,9 @@ addpath("path/to/your/folder");
 savepath;
 ```
 
-To use the function: 
+To use the function (input these commands in live scripts): 
+⚠️ Step-by-step output only displays in Live Scripts (not in Command Window)
+
 ```matlab
 % Compute eigenvalues and eigenvectors (with step-by-step display)
 A = [2 1; 1 2];
