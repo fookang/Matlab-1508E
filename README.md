@@ -37,7 +37,7 @@ savepath;
 ```
 
 To use the function (input these commands in live scripts): 
-⚠️ Step-by-step output only displays in Live Scripts (not in Command Window)
+>⚠️ Step-by-step output only displays in Live Scripts (not in Command Window)
 
 ```matlab
 % Compute eigenvalues and eigenvectors (with step-by-step display)
