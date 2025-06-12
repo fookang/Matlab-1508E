@@ -1,4 +1,4 @@
-# 📘 MATLAB Scripts for MA1508E
+# MATLAB Scripts for MA1508E
 
 This repository contains a collection of MATLAB scripts developed for **MA1508E (Linear Algebra for Engineering)**.
 
@@ -6,7 +6,7 @@ This repository contains a collection of MATLAB scripts developed for **MA1508E 
 
 ---
 
-## 📂 Files Included
+## Files Included
 
 | File                         | Description                                          |
 |------------------------------|------------------------------------------------------|
@@ -19,11 +19,11 @@ This repository contains a collection of MATLAB scripts developed for **MA1508E 
 | `solve_linear_system.m`      | Solves symbolic linear ODE systems                  |
 
 
-## 🧪 Usage
+## Usage
 
 These functions are best used inside **MATLAB Live Scripts** for step-by-step output.  
 
-### ➕ Add the Folder to Your MATLAB Path
+### Add the Folder to Your MATLAB Path
 
 In the **Command Window**, run:
 
@@ -36,7 +36,7 @@ addpath("path/to/your/folder");
 savepath;
 ```
 
-To use the function (input these commands in live scripts): 
+### Function Calls (Use in Live Script)
 >⚠️ Step-by-step output only displays in Live Scripts (not in Command Window)
 
 ```matlab
