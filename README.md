@@ -34,7 +34,7 @@ savepath;
 ```
 
 To use the function: 
-```
+```matlab
 % Compute eigenvalues and eigenvectors (with step-by-step display)
 A = [2 1; 1 2];
 [P, D] = Eigenvalue(A);
